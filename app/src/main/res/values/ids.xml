@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="welcomeText" type="id" />
+    <item name="btnEvents" type="id" />
+    <item name="btnNewEvents" type="id" />
+    <item name="recyclerViewEvents" type="id" />
+    <item name="statusTextView" type="id" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524001939339",
+    "project_id": "buzzrank-94ba4",
+    "storage_bucket": "buzzrank-94ba4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524001939339:android:9bb2be7cebb79248dda98e",
+        "android_client_info": {
+          "package_name": "com.example.buzzrank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAos-1sO2PiqwiyqTDRME9QT3ieswSjtzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

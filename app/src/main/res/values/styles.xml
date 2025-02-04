@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- styles.xml -->
+<resources>
+    <style name="RoundedButtonStyle">
+        <item name="cornerRadius">20dp</item>
+        <item name="elevation">4dp</item>
+    </style>
+</resources>
